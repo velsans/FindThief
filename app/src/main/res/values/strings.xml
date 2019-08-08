@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FindThief</string>
+    <string name="action_settings">Settings</string>
+    <string name="device_admin_explanation">For experimentation purposes only</string>
+    <string name="compliant">Your password is compliant!</string>
+    <string name="not_compliant">Your password is not compliant! Submit to my authority!</string>
+    <string name="password_failed">You will never break into this device!</string>
+    <string name="password_success">Congratulations!</string>
+    <string name="enable_device_admin">Enable Device Admin</string>
+    <string name="lock_device">Lock Device</string>
+    <string name="reset_device">Reset Device</string>
+    <string name="device_admin_enabled">Device Admin Enabled</string>
+    <string name="device_admin_disabled">Device Admin Disabled</string>
+</resources>
